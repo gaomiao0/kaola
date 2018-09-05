@@ -3,7 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-
+import vuescroll from "vuescroll"
+import 'vuescroll/dist/vuescroll.css'
+import '../static/css/common.css'
+import './assets/font/iconfont.css'
+import '../node_modules/swiper/dist/css/swiper.css'
+Vue.use(vuescroll)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
