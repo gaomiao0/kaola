@@ -1,0 +1,394 @@
+@charset "utf-8";
+/* CSS Document */
+body,div,p,ul,ol,li,dl,dt,dd,form,table,tr,tbody,tfoot,td,th,caption,hr,h1,h2,h3,h4,h5,h6,img,input,select,option{
+    margin:0;
+    padding:0;
+}
+html{
+    font-size: 24.691vw;
+}
+html,body{
+    height: 100%;
+}
+body{
+    font-family:"微软雅黑",Arial;
+    background: #f4f5ef;
+    display: flex;
+    flex-direction:column;
+}
+a{
+    text-decoration:none;
+}
+ul,ol{
+    list-style:none;
+}
+img{
+    border: none;
+    display: block;
+}
+select,option,input{
+    outline: none;
+    border: none;
+}
+
+/*header*/
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    line-height: 0.5rem;
+    background: #ffffff;
+    font-size: 0.19rem;
+    color: #000000;
+    justify-content: space-between;
+    border-bottom: 1px solid #c0c0be;
+    box-sizing: border-box;
+}
+.leftArrow{
+    width: 0.45rem;
+    padding-left: 0.17rem;
+  font-size: 0.19rem;
+  color: #000000;
+
+}
+
+.shareAndFeature{
+    padding-right: 0.21rem;
+    box-sizing: border-box;
+}
+.shareAndFeature i:first-child{
+    padding-right: 0.25rem;
+}
+
+
+/*center*/
+.center{
+    width: 100%;
+    flex:1;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+}
+
+
+/*/!*banner*!/*/
+.banner{
+    width: 100%;
+}
+.banner .swiper-container{
+	width:3.8rem;
+}
+.activityPic{
+    width: 3.04rem;
+    padding-top: 0.4rem;
+}
+.bigSlidePic img{
+    width: 3.04rem;
+    height: 1.75rem;
+}
+.sameSlidPic{
+    width: 3.04rem;
+    display: flex;
+}
+.sameSlidPic img:first-child{
+    width: 1.02rem;
+    height: 1.5rem;
+}
+.sameSlidPic img:nth-child(2){
+    width: 0.97rem;
+    height: 1.5rem;
+}
+.sameSlidPic img:last-child {
+    width: 1.04rem;
+    height: 1.5rem;
+}
+
+.shopSafeguard{
+    font-size: 0.12rem;
+    color: #646462;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0.1rem;
+}
+.shopSafeguardBox{
+    display: flex;
+    line-height: 0.45rem;
+}
+
+
+/*section*/
+section{
+    width: 100%;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    background: #fff;
+    padding-top: 0.26rem;
+    padding-bottom: 0.2rem;
+    margin-bottom: 0.1rem;
+}
+section a{
+    width: 25%;
+    text-align: center;
+    flex-shrink: 0;
+}
+section a img{
+    display: block;
+    width: 0.47rem;
+    height: 0.47rem;
+    margin:0 auto ;
+    padding-top: 0.06rem;
+}
+section a span{
+    display: block;
+    font-size: 0.12rem;
+    line-height: 0.26rem;
+    color:#000;
+}
+
+
+/*活动*/
+/*recommend*/
+.recommend{
+    width: 100%;
+}
+.bigRecomm{
+    width: 100%;
+    padding-top: 0.25rem;
+    background: #ffffff;
+ }
+.bigRecomm img{
+    width: 4.05rem;
+    height: 1.23rem;
+}
+.smallRecomm{
+    width: 100%;
+    display: flex;
+    overflow-x: auto;
+}
+.smallRecommShop{
+    margin: 0.19rem 0.05rem ;
+}
+.smallRecommShop:first-child{
+    margin-left: 0.1rem;
+}
+
+.smallRecommShop img{
+    width: 0.96rem;
+    height: 0.96rem;
+}
+.smallRecommShopTxt{
+    width: 0.96rem;
+    font-size: 0.12rem ;
+    background: #ffffff;
+    margin-top: 0.1rem;
+}
+.smallRecommShopTxtPirc{
+    color: red;
+    font-size: 0.1rem;
+    font-weight: bolder;
+    margin-top: 0.1rem;
+    padding-bottom: 0.07rem;
+}
+
+/*famousRecomm*/
+.famousRecomm{
+    width: 100%;
+    background: #ffffff;
+    padding-bottom: 0.35rem;
+    margin-bottom: .15rem;
+}
+.famousRecommTitle{
+    text-align: center;
+    padding: 0.23rem 0 0.07rem;
+}
+.famousRecommTitle h2{
+    font-size: 0.18rem;
+    line-height: 0.24rem;
+    font-weight: bolder;
+}
+.famousRecommTitle p{
+    font-size: 0.1rem;
+    color: #7e7e7e;
+    line-height: 0.17rem;
+}
+.famousRecommShopBox{
+    display: flex;
+    flex-wrap: wrap;
+}
+.famousRecommShop{
+    flex: 0;
+    flex-shrink: 0;
+}
+.famousRecommShop img{
+    width: 1.18rem;
+    height: 1.25rem;
+    margin-left: 0.05rem ;
+}
+
+/*globalHotSell*/
+.globalHotSell{
+    width: 100%;
+    background: #ffffff;
+}
+.globalHotSellTitle{
+    text-align: center;
+    padding: 0.23rem 0 0;
+}
+.globalHotSellTitle h2{
+    font-size: 0.18rem;
+    line-height: 0.24rem;
+    font-weight: bolder;
+    letter-spacing: 0.05rem;
+}
+.globalHotSellTitle p{
+    font-size: 0.1rem;
+    color: #7e7e7e;
+    line-height: 0.23rem;
+}
+.globalHotSellType{
+    display: flex;
+}
+.globalHotSellTypeBox{
+    text-align: center;
+    width: 25%;
+    padding-top: 0.07rem;
+    padding-bottom: 0.08rem;
+}
+.globalHotSellTypeBox img{
+    width: 0.28rem;
+    height: 0.25rem;
+    margin: 0 auto;
+}
+.globalHotSellTypeBox p{
+    font-size: 0.12rem;
+}
+.pitch{
+    background: #c3a871;
+    color: #ffffff;
+}
+.sift{
+    width: 100%;
+    box-sizing: border-box;
+}
+.siftTilte{
+    width: 100%;
+    background: #c3a871;
+    font-size: 0.2rem;
+    display: flex;
+    color: #ffffff;
+    align-items: center;
+    line-height: 0.55rem;
+    justify-content: center;
+}
+.siftTilte img{
+    width: 0.28rem;
+    height: 0.26rem;
+    margin: 0 0.17rem 0 0.15rem;
+}
+.same{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    background: #f0f0f0;
+    flex-wrap: wrap;
+
+}
+.siftTxtBox{
+    width: 1.28rem;
+    margin: 0.05rem 0 0.05rem 0.05rem;
+    flex-shrink: 0;
+    flex: 0;
+
+}
+.siftTxtBoxImg img{
+    width: 1.18rem;
+    height: 1.28rem;
+}
+.siftMessg{
+    font-size: 0.11rem;
+    line-height: 0.16rem;
+    background: #ffffff;
+    margin-top: 1px;
+    padding: 0.05rem 0.12rem 0 0.05rem;
+}
+.siftPircCart{
+    width: 100%;
+    background: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.1rem;
+    height: 0.36rem;
+    align-items: center;
+    padding: 0 0.05rem;
+    box-sizing: border-box;
+}
+.siftPric{
+    display: flex;
+    align-items: center;
+    color: #999999;
+}
+.siftPric p{
+    color: red;
+}
+.siftPric span{
+    font-size: 0.08rem;
+    margin-left: 0.02rem;
+}
+.siftCart img{
+    width: 0.25rem;
+    height: 0.25rem;
+}
+
+
+/*slidePic*/
+.slidePic{
+    width: 100%;
+    background: #ffffff;
+    padding-bottom: 0.24rem;
+}
+.slidePic .swiper-container{
+    width: 3rem;
+}
+.slidePicTitle p{
+    font-size: 0.16rem;
+    line-height: 0.65rem;
+    font-weight: bolder;
+    margin-left: 0.12rem;
+}
+
+.slidePic img{
+    width: 2.44rem;
+    height: 1.07rem;
+}
+
+/*foot*/
+footer{
+    width: 100%;
+    height: 0.54rem;
+    display: -webkit-flex;
+    background: white;
+    align-items:center;
+    box-sizing: border-box;
+}
+footer a{
+    flex: 1;
+    color: #808080;
+    height: 100%;
+    font-size: 0.1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.check{
+    color: #fff;
+    background: #c3a871;
+}
+footer img{
+    width: 0.28rem;
+    height: 0.23rem;
+    margin:0 auto;
+}
+footer span{
+    display: block;
+}

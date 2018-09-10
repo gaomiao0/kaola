@@ -1,0 +1,1299 @@
+{
+  "bannerSlide": [
+    {
+      "bigPicSlidePic": "/static/imgs/m-banner1.png",
+      "samePicSlidPic": [
+        "/static/imgs/m-banner2.png",
+        "/static/imgs/m-banner3.png",
+        "/static/imgs/m-banner4.png"
+      ]
+    },
+    {
+      "bigPicSlidePic": "/static/imgs/m-banner1.png",
+      "samePicSlidPic": [
+        "/static/imgs/m-banner2.png",
+        "/static/imgs/m-banner3.png",
+        "/static/imgs/m-banner4.png"
+      ]
+    },
+    {
+      "bigPicSlidePic": "/static/imgs/m-banner1.png",
+      "samePicSlidPic": [
+        "/static/imgs/m-banner2.png",
+        "/static/imgs/m-banner3.png",
+        "/static/imgs/m-banner4.png"
+      ]
+    }
+  ],
+  "sect": [
+    {
+      "title": "美妝个护",
+      "img": "/static/imgs/m-section1.png"
+    },
+    {
+      "title": "服装鞋靴",
+      "img": "/static/imgs/m-section2.png"
+    },
+    {
+      "title": "数码3C",
+      "img": "/static/imgs/m-section3.png"
+    },
+    {
+      "title": "环球美食",
+      "img": "/static/imgs/m-section1.png"
+    },
+    {
+      "title": "轻奢名牌",
+      "img": "/static/imgs/m-section2.png"
+    },
+    {
+      "title": "母婴保健",
+      "img": "/static/imgs/m-section3.png"
+    },
+    {
+      "title": "手表配饰",
+      "img": "/static/imgs/m-section2.png"
+    },
+    {
+      "title": "海外旗舰店",
+      "img": "/static/imgs/m-section3.png"
+    }
+  ],
+  "rec": {
+    "titlimg": "/static/imgs/m-recom1.png",
+    "sameShop": [
+      {
+        "titimg": "/static/imgs/m-recom2.png",
+        "txttit": "【买一送一】 以美蜂蜜柠檬...",
+        "txtpric": "￥25.9"
+      },
+      {
+        "titimg": "/static/imgs/m-recom3.png",
+        "txttit": "【买一送一】 以美蜂蜜柠檬...",
+        "txtpric": "￥25.9"
+      },
+      {
+        "titimg": "/static/imgs/m-recom4.png",
+        "txttit": "【买一送一】 以美蜂蜜柠檬...",
+        "txtpric": "￥25.9"
+      },
+      {
+        "titimg": "/static/imgs/m-recom2.png",
+        "txttit": "【买一送一】 以美蜂蜜柠檬...",
+        "txtpric": "￥25.9"
+      },
+      {
+        "titimg": "/static/imgs/m-recom3.png",
+        "txttit": "【买一送一】 以美蜂蜜柠檬...",
+        "txtpric": "￥25.9"
+      }
+    ]
+  },
+  "famous": {
+    "tittxt": "大牌新趋势",
+    "titp": "网罗全球最热门品牌旗舰店",
+    "famshop": [
+      {
+        "famimg": "/static/imgs/m-faomus1.png"
+      },
+      {
+        "famimg": "/static/imgs/m-faomus2.png"
+      },
+      {
+        "famimg": "/static/imgs/m-faomus3.png"
+      },
+      {
+        "famimg": "/static/imgs/m-faomus3.png"
+      },
+      {
+        "famimg": "/static/imgs/m-faomus2.png"
+      },
+      {
+        "famimg": "/static/imgs/m-faomus1.png"
+      }
+    ]
+  },
+  "glo": {
+    "gtit": "全球好货销售榜",
+    "gp": "周二更新 精选特惠",
+    "tbox": [
+      {
+        "tboxtxt": "精选推荐",
+        "tboximg": "/static/imgs/m-global1.png"
+      },
+      {
+        "tboxtxt": "美妆个护",
+        "tboximg": "/static/imgs/m-global2.png"
+      },
+      {
+        "tboxtxt": "数码3C",
+        "tboximg": "/static/imgs/m-global3.png"
+      },
+      {
+        "tboxtxt": "母婴保健",
+        "tboximg": "/static/imgs/m-global4.png"
+      },
+      {
+        "tboxtxt": "环球美食",
+        "tboximg": "/static/imgs/m-global5.png"
+      }
+    ]
+  },
+  "Hot": {
+    "limg": "/static/imgs/m-sift1.png",
+    "secp": "精选推荐",
+    "rimg": "/static/imgs/m-sift2.png",
+    "samehot": [
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      }
+    ]
+  },
+  "bea": {
+    "limg": "/static/imgs/m-sift1.png",
+    "secp": "美妆个护",
+    "rimg": "/static/imgs/m-sift2.png",
+    "samehot": [
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      }
+    ]
+  },
+  "Num": {
+    "limg": "/static/imgs/m-sift1.png",
+    "secp": "数码3C",
+    "rimg": "/static/imgs/m-sift2.png",
+    "samehot": [
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      }
+    ]
+  },
+  "moth": {
+    "limg": "/static/imgs/m-sift1.png",
+    "secp": "母婴保健",
+    "rimg": "/static/imgs/m-sift2.png",
+    "samehot": [
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      }
+    ]
+  },
+  "food": {
+    "limg": "/static/imgs/m-sift1.png",
+    "secp": "环球美食",
+    "rimg": "/static/imgs/m-sift2.png",
+    "samehot": [
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      },
+      {
+        "txtimg": "/static/imgs/m-siftPic1.png",
+        "messg": "【劵后101元！报销 税费 品牌授权 香港...",
+        "price": [
+          {
+            "pri1": "￥111",
+            "pri2": "￥299"
+          }
+        ],
+        "card": "/static/imgs/m-siftPic3.png"
+      }
+    ]
+  },
+  "fslide": {
+    "stit": "官网·卖场 精选",
+    "simg": [
+      {
+        "spic": "/static/imgs/m-slidePic1.png"
+      },
+      {
+        "spic": "/static/imgs/m-slidePic1.png"
+      },
+      {
+        "spic": "/static/imgs/m-slidePic1.png"
+      }
+    ]
+  },
+  "vsli": [
+    {
+      "vslide": [
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        }
+      ]
+    },
+    {
+      "vslide": [
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        }
+      ]
+    },
+    {
+      "vslide": [
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        }
+      ]
+    },
+    {
+      "vslide": [
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        },
+        {
+          "vlipic": "/static/imgs/m-v-2.png",
+          "vpric": "会员96折",
+          "vtxt": "超9成商品"
+        }
+      ]
+    }
+   ],
+  "vsif": {
+    "vsitit": [
+      {
+        "vsa": "最新福利"
+      },
+      {
+        "vsa": "会员权益"
+      },
+      {
+        "vsa": "精品商品"
+      }
+    ],
+    "vsftit": "最新福利",
+    "vap": "会员活动",
+    "more": "更多 >",
+    "newp": [
+      {
+        "newp1":"/static/imgs/m-v-7.png"
+      },
+      {
+        "newp1":"/static/imgs/m-v-8.png"
+      }
+    ],
+    "trtit":"镇店之宝",
+    "trp":"会员尊享 每日5折",
+    "trd":[
+      {
+        "trdh":"09.05",
+        "trdp":"昨日推荐"
+      },
+      {
+        "trdh":"09.06",
+        "trdp":"今日首推"
+      },
+      {
+        "trdh":"09.07",
+        "trdp":"明日预告"
+      }
+    ],
+    "uptxt":"每日0点准时上新"
+  },
+  "vcar":{
+    "vhi":"/static/imgs/m-v-9.png",
+    "vhp":"黑卡先生",
+    "vhtp":"过省钱有品的生活",
+    "vctb":[
+      {
+        "vctbi":"/static/imgs/m-v-10.png",
+        "vctbt":"宠男友必入：每个男人，都需要一只「鱼鹰包」",
+        "vctbfp1":"2721人赞",
+        "vctbfp2":"14小时前"
+      },
+      {
+        "vctbi":"/static/imgs/m-v-10.png",
+        "vctbt":"宠男友必入：每个男人，都需要一只「鱼鹰包」",
+        "vctbfp1":"2721人赞",
+        "vctbfp2":"14小时前"
+      }
+    ]
+  },
+  "cwfs":{
+    "cwfstit":"黑卡12大权益",
+    "cwfsd":[
+      {
+        "cwfsdt":"1 | 96折一年预计省1046元",
+        "more":"更多>",
+        "cwfsdi":"/static/imgs/m-v-11.png",
+        "cwfsds":[
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cwfsdt":"2 | 96折一年预计省1046元",
+        "more":"更多>",
+        "cwfsdi":"/static/imgs/m-v-11.png",
+        "cwfsds":[
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cwfsdt":"3 | 96折一年预计省1046元",
+        "more":"更多>",
+        "cwfsdi":"/static/imgs/m-v-11.png",
+        "cwfsds":[
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cwfsdt":"4 | 96折一年预计省1046元",
+        "more":"更多>",
+        "cwfsdi":"/static/imgs/m-v-11.png",
+        "cwfsds":[
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          },
+          {
+            "cwfsdsi":"/static/imgs/m-v-12.png",
+            "cwfsdsp1":"House of rose",
+            "cwfsdsp1":"￥128",
+            "cwfsdsb":[
+              {
+                "cwfsdsbi":"/static/imgs/m-v-26.png",
+                "cwfsdsbip":"会员折上96折"
+              }
+            ]
+          }
+        ]
+      }
+
+    ],
+    "sftit":"精选商品",
+    "hsth":"会员热销总榜",
+    "hstp":"黑卡会员都在买，不错的选择",
+    "moreb":"更多 >",
+    "sls":[
+      {
+        "slsi":"/static/imgs/m-v-34.png",
+        "slsp":"sisly 希思黎 祛皱眼唇 15毫升",
+        "slstb":[
+          {
+            "slstbi":"/static/imgs/m-v-15.png",
+            "slstbp":"热度83.5℃"
+          }
+        ],
+        "slsibox1":"会员价",
+        "slsibox2":"￥898",
+        "slsiboximg":"/static/imgs/m-v-26.png",
+        "slsps":"/static//imgs/m-v-33.png"
+      },
+      {
+        "slsi":"/static/imgs/m-v-34.png",
+        "slsp":"sisly 希思黎 祛皱眼唇 15毫升",
+        "slstb":[
+          {
+            "slstbi":"/static/imgs/m-v-15.png",
+            "slstbp":"热度83.5℃"
+          }
+        ],
+        "slsibox1":"会员价",
+        "slsibox2":"￥898",
+        "slsiboximg":"/static/imgs/m-v-26.png",
+        "slsps":"/static//imgs/m-v-32.png"
+      },
+      {
+        "slsi":"/static/imgs/m-v-34.png",
+        "slsp":"sisly 希思黎 祛皱眼唇 15毫升",
+        "slstb":[
+          {
+            "slstbi":"/static/imgs/m-v-15.png",
+            "slstbp":"热度83.5℃"
+          }
+        ],
+        "slsibox1":"会员价",
+        "slsibox2":"￥898",
+        "slsiboximg":"/static/imgs/m-v-26.png",
+        "slsps":"/static//imgs/m-v-31.png"
+      }
+    ],
+    "goodtit":"美好生活研究所",
+    "goodp":"有料有格调的世界",
+    "goodi":"/static/imgs/m-v-51.png",
+    "goodimg":"/static/imgs/m-v-51.png",
+    "youtit":"你的黑卡清单",
+    "youp":"你想买的商品都在这",
+    "youshop":[
+      {
+        "youshopi":"/static/imgs/m-v-52.png",
+            "youshoptp1":"MONTBLANGC 万宝",
+            "youshopts1":"会员价￥779",
+            "youshopti1":"/static/imgs/m-v-26.png",
+            "youshoptp2":"96折"
+      },
+      {
+        "youshopi":"/static/imgs/m-v-52.png",
+        "youshoptp1":"MONTBLANGC 万宝",
+        "youshopts1":"会员价￥779",
+        "youshopti1":"/static/imgs/m-v-26.png",
+        "youshoptp2":"96折"
+      },
+      {
+        "youshopi":"/static/imgs/m-v-52.png",
+        "youshoptp1":"MONTBLANGC 万宝",
+        "youshopts1":"会员价￥779",
+        "youshopti1":"/static/imgs/m-v-26.png",
+        "youshoptp2":"96折"
+      },
+      {
+        "youshopi":"/static/imgs/m-v-52.png",
+        "youshoptp1":"MONTBLANGC 万宝",
+        "youshopts1":"会员价￥779",
+        "youshopti1":"/static/imgs/m-v-26.png",
+        "youshoptp2":"96折"
+      },
+      {
+        "youshopi":"/static/imgs/m-v-52.png",
+        "youshoptp1":"MONTBLANGC 万宝",
+        "youshopts1":"会员价￥779",
+        "youshopti1":"/static/imgs/m-v-26.png",
+        "youshoptp2":"96折"
+      }
+
+    ],
+    "youliketit":"猜你喜欢",
+    "youlikeshop":[
+      {
+        "youlikeshopi":"/static/imgs/m-v-53.png",
+        "youlikeshopp1":"全身美白 内服防晒",
+        "youlikeshopp2":"POLA 宝丽 美白丸 180粒 全身美白内服防晒",
+        "youlikeshopp3":"下单再享96折",
+        "youlikeshopp4":"￥996",
+        "youlikeshopp5":"￥2000"
+      },
+      {
+        "youlikeshopi":"/static/imgs/m-v-53.png",
+        "youlikeshopp1":"全身美白 内服防晒",
+        "youlikeshopp2":"POLA 宝丽 美白丸 180粒 全身美白内服防晒",
+        "youlikeshopp3":"下单再享96折",
+        "youlikeshopp4":"￥996",
+        "youlikeshopp5":"￥2000"
+      },
+      {
+        "youlikeshopi":"/static/imgs/m-v-53.png",
+        "youlikeshopp1":"全身美白 内服防晒",
+        "youlikeshopp2":"POLA 宝丽 美白丸 180粒 全身美白内服防晒",
+        "youlikeshopp3":"下单再享96折",
+        "youlikeshopp4":"￥996",
+        "youlikeshopp5":"￥2000"
+      },
+      {
+        "youlikeshopi":"/static/imgs/m-v-53.png",
+        "youlikeshopp1":"全身美白 内服防晒",
+        "youlikeshopp2":"POLA 宝丽 美白丸 180粒 全身美白内服防晒",
+        "youlikeshopp3":"下单再享96折",
+        "youlikeshopp4":"￥996",
+        "youlikeshopp5":"￥2000"
+      },
+      {
+        "youlikeshopi":"/static/imgs/m-v-53.png",
+        "youlikeshopp1":"全身美白 内服防晒",
+        "youlikeshopp2":"POLA 宝丽 美白丸 180粒 全身美白内服防晒",
+        "youlikeshopp3":"下单再享96折",
+        "youlikeshopp4":"￥996",
+        "youlikeshopp5":"￥2000"
+      },
+      {
+        "youlikeshopi":"/static/imgs/m-v-53.png",
+        "youlikeshopp1":"全身美白 内服防晒",
+        "youlikeshopp2":"POLA 宝丽 美白丸 180粒 全身美白内服防晒",
+        "youlikeshopp3":"下单再享96折",
+        "youlikeshopp4":"￥996",
+        "youlikeshopp5":"￥2000"
+      }
+
+    ]
+    },
+    "rgl":[
+       {
+        "rgli":"/static/imgs/m-c-1.png",
+        "rgls":"话费流量"
+      },
+      {
+        "rgli":"/static/imgs/m-c-2.png",
+        "rgls":"游戏"
+      },
+      {
+        "rgli":"/static/imgs/m-c-3.png",
+        "rgls":"视频充值"
+      },
+      {
+        "rgli":"/static/imgs/m-c-4.png",
+        "rgls":"油卡充值"
+      },
+      {
+        "rgli":"/static/imgs/m-c-5.png",
+        "rgls":"网易白金卡"
+      }
+     
+  ],
+  "rcphone":{
+        "rcptiti":"/static/imgs/m-c-2.png",
+        "rcptitp":"话费充值",
+        "rcpcm1":"10元",
+        "rcpcm2":"20元",
+        "rcpcm3":"30元",
+        "rcpcm4":"50元",
+        "rcpcm5":"100元",
+        "rcpcm6":"全部充值"
+  },
+  "rectra":{
+    "rectratit":"/static/imgs/m-c-1.png",
+    "rectrap":"流量充值",
+    "rectm1":"10元",
+    "rectm2":"20元",
+    "rectm3":"30元",
+    "rectm4":"50元",
+    "rectm5":"100元",
+    "rectm6":"全部面值"
+  },
+  "recfoot":{
+    "recfoottiti":"/static/imgs/m-c-13.png",
+    "recfoottitp":"视频会员",
+    "recfootv":[
+      {
+        "recfootvi":"/static/imgs/m-c-12.png",
+        "recfootvp1":"腾讯视频VIP",
+        "recfootvp2":"去充值"
+
+      },
+      {
+        "recfootvi":"/static/imgs/m-c-11.png",
+        "recfootvp1":"芒果视频",
+        "recfootvp2":"去充值"
+
+      },
+      {
+        "recfootvi":"/static/imgs/m-c-1.png",
+        "recfootvp1":"优酷视频",
+        "recfootvp2":"去充值"
+
+      }
+    ]
+  }
+ 
+}

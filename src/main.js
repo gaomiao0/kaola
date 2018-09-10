@@ -3,8 +3,18 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import "./assets/css/vip-public.css"
+import "./assets/css/charge-public.css"
+import "./assets/css/klVerseasFlagshipShop.css"
+import '../static/css/common.css'
+import 'swiper/dist/css/swiper.css'
+import $ from 'jquery'
 
-Vue.config.productionTip = false
+
+import axios from 'axios'
+Vue.prototype.$http = axios
+
+
 
 /* eslint-disable no-new */
 new Vue({
@@ -12,4 +22,4 @@ new Vue({
   router,
   components: { App },
   template: '<App/>'
-})
+});
