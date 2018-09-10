@@ -2,9 +2,12 @@
 <div class="banner">
   <div class="swiper-container">
     <div class="swiper-wrapper">
+<<<<<<< HEAD
       <!--<div class="swiper-slide" v-for="s in swipone">
         <img :src="s.imgs"/>
       </div>-->
+=======
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
       <div class="swiper-slide">
         <img src="../../assets/imgs/gs1.png"/>
       </div>
@@ -20,7 +23,10 @@
       <div class="swiper-slide">
         <img src="../../assets/imgs/70wU46OrBuTts0lykxGu_960_480T1805171751_960_480.jpg"/>
       </div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
     </div>
     <!-- 如果需要分页器 -->
     <div class="swiper-pagination"></div>
@@ -34,6 +40,7 @@
         name: "klSwiper",
         mounted(){
           new Swiper (".swiper-container", {
+<<<<<<< HEAD
             loop: true,
             pagination: {
               el: '.swiper-pagination',
@@ -42,6 +49,15 @@
           })
         },
       props:["swipone"]
+=======
+            pagination: {
+              el: '.swiper-pagination',
+            },
+            loop: true,
+            autoplay:true,
+          })
+        }
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
     }
 </script>
 

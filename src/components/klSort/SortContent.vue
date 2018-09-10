@@ -1,6 +1,7 @@
 <template>
   <div class="content">
     <div class="con">
+<<<<<<< HEAD
       <div class="navbox">
         <div class="nav">
           <ul>
@@ -15,6 +16,10 @@
         <sort-content-lists :conlist="alldata.conlists2" v-else-if="flag==1" class="rig"></sort-content-lists>
         <sort-content-lists :conlist="alldata.conlists1" v-if="flag==2"></sort-content-lists>
         <sort-content-lists :conlist="alldata.conlists2" v-else-if="flag==3" class="rig"></sort-content-lists>
+=======
+        <sort-content-nav></sort-content-nav>
+      <sort-content-lists></sort-content-lists>
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 
     </div>
   </div>
@@ -25,6 +30,7 @@
     import SortContentLists from "./SortContentLists";
     export default {
         name: "SortContent",
+<<<<<<< HEAD
         components: {SortContentLists, SortContentNav},
         data(){
           return{
@@ -101,4 +107,20 @@
   color:#000000;
 
 }
+=======
+      components: {SortContentLists, SortContentNav}
+    }
+</script>
+
+<style scoped>
+.content{
+  flex: 1;
+  margin-top:0.54rem;
+  width:100%;
+
+}
+  .con{
+    display: flex;
+  }
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 </style>

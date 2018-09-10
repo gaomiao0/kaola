@@ -27,17 +27,30 @@ body {
   font-family: "微软雅黑";
   display: flex;
   flex-direction: column;
+<<<<<<< HEAD
   background: #fff;
+=======
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 }
 input{
   outline: none;
   border:none;
 }
+<<<<<<< HEAD
+=======
+em,i{
+  font-style: normal;
+  text-decoration: none;
+}
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 ::-webkit-scrollbar {
   width: 0;
   height:0;
 }
+<<<<<<< HEAD
 em,i,u{
   font-style: normal;
   text-decoration: none;
 }
+=======
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f

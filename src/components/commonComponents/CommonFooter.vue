@@ -1,7 +1,11 @@
 <template>
 <div class="footer">
   <div class="foot">
+<<<<<<< HEAD
     <a href="javascript:;" :class="{on:'/'===$route.path}" @click="goto('/')">
+=======
+    <a href="javascript:;" :class="{on:'/klClothShop'===$route.path}" @click="goto('/klClothShop')">
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
       <i class="iconfont icon-taikongcangtubiao-"></i>
       <span>首页</span>
     </a>
@@ -13,11 +17,19 @@
       <i class="iconfont icon-xiaocao"></i>
       <span>种草社区</span>
     </a>
+<<<<<<< HEAD
     <a href="javascript:;" :class="{on:'/klshopcars'===$route.path}" @click="goto('/klshopcars')">
       <i class="iconfont icon-gouwuche"></i>
       <span>购物车</span>
     </a>
     <a href="javascript:;" :class="{on:'/klmine'===$route.path}" @click="goto('/klmine')">
+=======
+    <a href="javascript:;" :class="{on:'/shopcarts'===$route.path}" @click="goto('/shopcarts')">
+      <i class="iconfont icon-gouwuche"></i>
+      <span>购物车</span>
+    </a>
+    <a href="javascript:;" :class="{on:'/mine'===$route.path}" @click="goto('/mine')">
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
       <i class="iconfont icon-wode"></i>
       <span>我的考拉</span>
     </a>

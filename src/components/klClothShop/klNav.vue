@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <div>
   <div class="nav">
     <kl-nav-inner :inner="v" v-for="(v,index) in navbox.navlist" :key="index"></kl-nav-inner>
@@ -13,10 +14,34 @@
         </a>
       </div>
     </div>
+=======
+<div class="nav">
+  <a href="">
+    <img src="" alt="">
+    <span>女装</span>
+  </a>
+  <a href="">
+    <img src="" alt="">
+    <span>童装童鞋</span>
+  </a>
+  <a href="">
+    <img src="" alt="">
+    <span>男装</span>
+  </a>
+  <a href="">
+    <img src="" alt="">
+    <span>运动</span>
+  </a>
+  <a href="">
+    <img src="" alt="">
+    <span>鞋靴</span>
+  </a>
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 </div>
 </template>
 
 <script>
+<<<<<<< HEAD
     import KlNavInner from "./klNavInner";
     export default {
         name: "klNav",
@@ -66,4 +91,15 @@
       }
     }
   }
+=======
+    export default {
+        name: "klNav"
+    }
+</script>
+
+<style scoped>
+.nav{
+  width:100%;
+}
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 </style>

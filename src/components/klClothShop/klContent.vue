@@ -1,6 +1,7 @@
 <template>
   <div class="content">
     <div class="con">
+<<<<<<< HEAD
       <kl-swiper :swipone = "alldata.swipone"></kl-swiper>
       <kl-nav :navbox = "alldata.navbox"></kl-nav>
       <kl-new-products :newpros = "alldata.newpros"></kl-new-products>
@@ -9,6 +10,10 @@
       <kl-rank-select :ranksel="alldata.ranksel"></kl-rank-select>
       <kl-swiper-two></kl-swiper-two>
       <kl-hot-product :hotpros="alldata.hotpros" id="searchBar" :class="searchBarFixed===true?'isFixed':''"></kl-hot-product>
+=======
+      <kl-swiper></kl-swiper>
+      <kl-nav></kl-nav>
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
     </div>
   </div>
 </template>
@@ -16,6 +21,7 @@
 <script>
     import KlSwiper from "./klSwiper";
     import KlNav from "./klNav";
+<<<<<<< HEAD
     import KlNewProducts from "./klNewProducts";
     import KlNewClass from "./klNewClass";
     import KlBigRank from "./klBigRank";
@@ -59,11 +65,26 @@
   flex:1;
   width:100%;
   overflow-y: scroll;
+=======
+    export default {
+        name: "klContent",
+      components: {KlNav, KlSwiper}
+    }
+</script>
+
+<style scoped>
+.content{
+  width:100%;
+  flex:1;
+  overflow-y: scroll;
+  margin-top:0.54rem;
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 }
 .con{
  /* display: flex;
   flex-direction: column;*/
 }
+<<<<<<< HEAD
 
     .isFixed{
       position:fixed;
@@ -71,4 +92,6 @@
       z-index:999;
     }
 
+=======
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 </style>

@@ -6,7 +6,11 @@
       <i class="iconfont icon-sousuo-copy"></i>
       <input type="text" placeholder="初秋美衣×1">
     </div>
+<<<<<<< HEAD
     <router-link to="/klMsn" class="iconfont icon-xinxi"></router-link>
+=======
+    <div class="iconfont icon-xinxi"></div>
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
   </div>
 </div>
 </template>
@@ -42,7 +46,10 @@
 .head .iconfont{
   font-size:0.24rem;
   font-weight:600;
+<<<<<<< HEAD
   color:#d50000
+=======
+>>>>>>> 60f2dd063ec6de625f49ecad6cae1fe6dbaa5e5f
 }
 .search{
   flex: 1;
